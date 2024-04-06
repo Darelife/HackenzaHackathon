@@ -36,6 +36,7 @@ with open("indianArticles.json", "r") as f:
 index = 0
 for i in names:
   if (index <= len(articlesDatai)-1): index +=1; continue
+  if (i in articlesDatai): continue
   with open("break.json", "r") as f:
     breakData = json.load(f)
 
