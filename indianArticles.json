@@ -12912,5 +12912,210 @@
       "type": "Conference and Workshop Papers",
       "points": 0.1111111111111111
     }
-  ]
+  ],
+  "Srimanta Pal": [],
+  "Srinath R. Naidu": [],
+  "Srinath Srinivasa": [
+    {
+      "venue": "AIED",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "EMNLP",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "AAMAS",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "CIKM",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.5
+    },
+    {
+      "venue": "IJCAI",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.2
+    },
+    {
+      "venue": "AIED",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    }
+  ],
+  "Sriparna Saha 0001": [
+    {
+      "venue": "ACL",
+      "year": "2019",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "EACL",
+      "year": "2017",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "ECIR",
+      "year": "2024",
+      "type": "Conference and Workshop Papers",
+      "points": 0.2
+    },
+    {
+      "venue": "CIKM",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "CIKM",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.2
+    },
+    {
+      "venue": "ECAI",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "ECIR",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "ECIR",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    }
+  ],
+  "Sriram Kailasam": [],
+  "Subashish Datta": [],
+  "Subhabrata Samajder": [],
+  "Subhajit Roy 0001": [
+    {
+      "venue": "IJCAI",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "IJCAI",
+      "year": "2020",
+      "type": "Conference and Workshop Papers",
+      "points": 0.2
+    },
+    {
+      "venue": "CAV",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.5
+    },
+    {
+      "venue": "IJCAI",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.2
+    },
+    {
+      "venue": "ASE",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.14285714285714285
+    },
+    {
+      "venue": "CAV",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.2
+    },
+    {
+      "venue": "CAV",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "ISSTA",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.5
+    },
+    {
+      "venue": "TACAS",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "AAAI",
+      "year": "2021",
+      "type": "Conference and Workshop Papers",
+      "points": 0.2
+    },
+    {
+      "venue": "ICCAD",
+      "year": "2021",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "IJCAI",
+      "year": "2021",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "SP",
+      "year": "2021",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    }
+  ],
+  "Subhajit Sen": [
+    {
+      "venue": "ACL",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.09090909090909091
+    },
+    {
+      "venue": "EMNLP",
+      "year": "2021",
+      "type": "Conference and Workshop Papers",
+      "points": 0.16666666666666666
+    }
+  ],
+  "Subhamoy Maitra": [],
+  "Subhas C. Nandy": [],
+  "Subhashis Banerjee": [
+    {
+      "venue": "WACV",
+      "year": "2023",
+      "type": "Conference and Workshop Papers",
+      "points": 0.125
+    },
+    {
+      "venue": "WACV",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    }
+  ],
+  "Subhasis Bhattacharjee": [],
+  "Subodh Kumar 0001": []
 }
