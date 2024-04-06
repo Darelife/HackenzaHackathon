@@ -9,6 +9,9 @@ with open("IndianProfs.json", "r") as f:
 with open("conferenceAcronyms.json", "r") as f:
     confsAccronyms = json.load(f)
 
+with open("./FieldOfResearch/for.json", "r") as f:
+    forData = json.load(f)
+
 websiteData = {}
 
 for i in articles:
@@ -18,13 +21,20 @@ for i in articles:
         try:
             try:
                 # if conference
+
                 if j["venue"] in confsAccronyms:
+                    forr = []
+                    for k in confsAccronyms[j["venue"]]["FOR"]:
+                        try:
+                            forr.append(forData[k])
+                        except:
+                            pass
                     websiteData[j["year"]].append(
                         {
                             "author": i,
                             "affiliation": profs[i]["affiliation"],
                             "points": j["points"],
-                            "FOR": confsAccronyms[j["venue"]]["FOR"],
+                            "FOR": forr,
                         }
                     )
                 # if journal
