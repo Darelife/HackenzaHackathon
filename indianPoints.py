@@ -158,8 +158,8 @@ for i in names:
     json.dump(names, f, indent=2)
 
   # This is also like the breakIn thing, but it's predecided, and can't be changed when the program is running
-  if (index == 100):
-    break
+  # if (index == 100):
+  #   break
 
 with open("indianProfs.json", "w") as f:
   json.dump(names, f, indent=2)
