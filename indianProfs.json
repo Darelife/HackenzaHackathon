@@ -3817,32 +3817,38 @@
   "Subodh Sharma 0001": {
     "scholarid": "BXmyJ6QAAAAJ",
     "affiliation": "IIT Delhi",
-    "homepage": "http://www.cse.iitd.ernet.in/~svs"
+    "homepage": "http://www.cse.iitd.ernet.in/~svs",
+    "points": 1.25
   },
   "Subodh Vishnu Sharma": {
     "scholarid": "BXmyJ6QAAAAJ",
     "affiliation": "IIT Delhi",
-    "homepage": "http://www.cse.iitd.ernet.in/~svs"
+    "homepage": "http://www.cse.iitd.ernet.in/~svs",
+    "points": 1.5
   },
   "Subrahmanyam Kalyanasundaram": {
     "scholarid": "NOSCHOLARPAGE",
     "affiliation": "IIT Hyderabad",
-    "homepage": "https://www.iith.ac.in/~subruk"
+    "homepage": "https://www.iith.ac.in/~subruk",
+    "points": 0.5833333333333333
   },
   "Subrahmanyam Kambhampati Venkata": {
     "scholarid": "pxVeS_IAAAAJ",
     "affiliation": "CMI",
-    "homepage": "http://www.cmi.ac.in/~kv"
+    "homepage": "http://www.cmi.ac.in/~kv",
+    "points": 1.9999999999999998
   },
   "Subramanian Ramanathan": {
     "scholarid": "mUvcmRsAAAAJ",
     "affiliation": "IIIT Hyderabad",
-    "homepage": "https://www.iiit.ac.in/people/faculty/s.ramanathan"
+    "homepage": "https://www.iiit.ac.in/people/faculty/s.ramanathan",
+    "points": 0
   },
   "Suchetana Chakraborty": {
     "scholarid": "sLnKodYAAAAJ",
     "affiliation": "IIT Jodhpur",
-    "homepage": "http://home.iitj.ac.in/~suchetana"
+    "homepage": "http://home.iitj.ac.in/~suchetana",
+    "points": 0
   },
   "Sudakshina Dutta": {
     "scholarid": "sijfhHoAAAAJ",

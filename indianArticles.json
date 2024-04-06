@@ -13117,5 +13117,117 @@
     }
   ],
   "Subhasis Bhattacharjee": [],
-  "Subodh Kumar 0001": []
+  "Subodh Kumar 0001": [],
+  "Subodh Sharma 0001": [
+    {
+      "venue": "ASE",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "ICST",
+      "year": "2021",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "ICSME",
+      "year": "2020",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "FM",
+      "year": "2018",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    }
+  ],
+  "Subodh Vishnu Sharma": [
+    {
+      "venue": "ASE",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "ICST",
+      "year": "2021",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "ICSME",
+      "year": "2020",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "FM",
+      "year": "2018",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "NDSS",
+      "year": "2018",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    }
+  ],
+  "Subrahmanyam Kalyanasundaram": [
+    {
+      "venue": "AAAI",
+      "year": "2024",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "MFCS",
+      "year": "2022",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    }
+  ],
+  "Subrahmanyam Kambhampati Venkata": [
+    {
+      "venue": "NeurIPS",
+      "year": "2021",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "BMVC",
+      "year": "2019",
+      "type": "Conference and Workshop Papers",
+      "points": 0.5
+    },
+    {
+      "venue": "ITCS",
+      "year": "2017",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "ISAAC",
+      "year": "1999",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    },
+    {
+      "venue": "ICALP",
+      "year": "1998",
+      "type": "Conference and Workshop Papers",
+      "points": 0.25
+    },
+    {
+      "venue": "FOCS",
+      "year": "1993",
+      "type": "Conference and Workshop Papers",
+      "points": 0.3333333333333333
+    }
+  ],
+  "Subramanian Ramanathan": [],
+  "Suchetana Chakraborty": []
 }
