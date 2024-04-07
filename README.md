@@ -6,6 +6,9 @@ A hackathon conducted by the CS Department of BITS Pilani KK Birla Goa Campus.
 
 [The github repository](https://github.com/arin-r/better-csrankings) containing the website files with all the commits.
 
+# Proposal Link
+https://drive.google.com/drive/folders/1XT5O8lH_egUPfAkjYUyzX3wX5mLz7HBw?usp=sharing
+
 # Team Members
 
 1. Prakhar Bhandari
